@@ -1,7 +1,9 @@
 # 🛰️ Bannergress Image Downloader (Original s0)
+
 <p align="center">
   <img src="./clipboard_2026-03-24_21-15.jpg" width="1000" alt="使用演示">
 </p>
+
 [English](#english) | [中文](#中文)
 
 ---
