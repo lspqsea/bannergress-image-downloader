@@ -42,3 +42,5 @@ This project was developed by me with the assistance of **Google Gemini (AI)**. 
 - Image copyrights belong to the original authors, Niantic, and respective owners.
 - This tool is for personal use and DIY only. **Commercial use is strictly prohibited**.
 - The developer is not responsible for any consequences arising from the use of this tool.
+
+- 2026-3-29  Update v1.7: Added multi-language support (English/Chinese) based on browser settings.
