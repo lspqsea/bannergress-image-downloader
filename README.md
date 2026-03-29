@@ -32,6 +32,8 @@
 ### 💡 Development Background
 This project was developed by me with the assistance of **Google Gemini (AI)**. Extracting high-resolution images for each mission on Bannergress manually is time-consuming. I used AI to create this automation tool to help fellow Agents save their mission memories more efficiently.
 
+### 🌍 Multi-language Support: Automatically adapts to English, Japanese, Spanish, German, French, Malay, Simplified & Traditional Chinese based on your browser settings.
+
 ### 🚀 Instructions
 1. **Prerequisites**: Install [Tampermonkey](https://www.tampermonkey.net/) extension.
 2. **Installation**: Click `bannergress-downloader.user.js` in this repo, click `Raw` to install, or copy-paste the code manually.
