@@ -65,6 +65,7 @@ Refined Structure: Files are now organized as Banner_Name/Mission_Images/01.png 
 修复预览图缺失**：改进了对 Bannergress 官方合成长图的选择算法，解决了部分页面无法下载预览图的问题。
 优化文件夹命名**：增强了对网页标题的识别逻辑，减少出现 `Unknown_Banner` 文件夹的情况。
 增强稳定性**：增加了下载错误日志监控。
+
 2.1 Fixes & Improvements (2026-04-05)
 Fix Missing Preview**: Improved the selection algorithm for official composite images, resolving issues where previews failed to download on certain pages.
 Better Naming**: Optimized banner title detection to reduce the occurrence of `Unknown_Banner` folder names.
