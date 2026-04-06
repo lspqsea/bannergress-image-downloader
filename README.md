@@ -50,7 +50,6 @@ This project was developed by me with the assistance of **Google Gemini (AI)**. 
 
 
 ========================================
-
 v2.2 更新： (2026-04-06)
 规范化命名：子文件夹名称统一修改为英文 Mission_Images，增强跨平台兼容性。
 结构优化：下载后将获得 Banner名称/Mission_Images/01.png 的清晰目录结构。
@@ -58,6 +57,7 @@ v2.2 更新： (2026-04-06)
 v2.2 Updates:
 Standardized Naming: Renamed the sub-folder to Mission_Images for better cross-platform compatibility and international standards.
 Refined Structure: Files are now organized as Banner_Name/Mission_Images/01.png for a cleaner workspace.
+
 ========================================
 2.1 修复与优化 (2026-04-05)
 修复预览图缺失**：改进了对 Bannergress 官方合成长图的选择算法，解决了部分页面无法下载预览图的问题。
