@@ -4,8 +4,6 @@
   <img src="./043.jpg" width="1000" alt="使用演示">
 </p>
 
-# 🛰️ Bannergress Image Downloader (Original s0)
-
 [English](#english) | [日本語](#日本語) | [中文](#中文)
 
 ---
