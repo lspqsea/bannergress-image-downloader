@@ -11,7 +11,7 @@
 ## 中文
 
 ### 💡 开发背景
-本项目由本人（Ingress Agent）在 **Google Gemini (AI)** 的协助下开发完成。由于在刷 Bannergress 任务时，手动提取每一枚任务的高清原图过于耗时，因此利用 AI 编写了这款自动化工具，自动识别支持主流多国语言，旨在提高 Agent 们的效率，让大家能更轻松地保存精美的任务图片纪念。
+本项目由本人（Ingress Agent）在 **Google Gemini (AI)** 的协助下开发完成。由于在刷 Bannergress 任务时，手动提取每一枚任务的高清原图过于耗时，因此利用 AI 编写了这款自动化工具，自动识别支持主流多国语言，旨在提高 Agent 们的效率，让大家能更轻松地保存精美的任务图片纪念。 
 
 ### 🚀 使用说明
 1. **安装插件**：确保浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/)。
